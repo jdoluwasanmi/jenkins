@@ -15,3 +15,9 @@ usage - use node as much as possible
 launch method - launch agent via ssh
 host verification stratey - non verify verification strategy
 availablity - keep agent available as much as possible
+
+
+now validate ..with a freestyle project
+go to configure - build step - execute shell
+
+you can also try with pipeline
