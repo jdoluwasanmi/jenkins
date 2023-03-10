@@ -21,3 +21,11 @@ now validate ..with a freestyle project
 go to configure - build step - execute shell
 
 you can also try with pipeline
+
+you can also connect thru ssh priv key with another slave node
+
+
+
+**************
+nodejs on jenkins
+go to manage jenkins - plugins - 
