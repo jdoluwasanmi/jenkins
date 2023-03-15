@@ -29,3 +29,10 @@ you can also connect thru ssh priv key with another slave node
 **************
 nodejs on jenkins
 go to manage jenkins - plugins - 
+
+
+*******
+execute shell scripts
+cd /opt/springboot-maven-micro
+sudo docker build -t junnlord/springboot-maven-micro:app .
+sudo docker push junnlord/springboot-maven-micro:app
