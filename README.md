@@ -1,3 +1,12 @@
+Installing jenkins
+setup the server
+apt install openjdk-11-jre -y
+go to jenkins.io - documentation - linux - choose os version and follow the steps
+
+
+
+
+
 # jenkins
 
 
